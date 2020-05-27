@@ -10,6 +10,8 @@ public class ExemplosJava {
         na empresa Sun Microsystems.
         */
         
+        /* AULA JAVA - Variáveis, Operadores, Entradas/Saídas
+        
         // Declarando variáveis...
         String nome, sobrenome;
         int idade;
@@ -47,6 +49,15 @@ public class ExemplosJava {
         
         System.out.println("Joaquim" + " " + "Silva");
         System.out.println("n1 + n2 = " + (n1+n2) );
+        
+        */
+        
+        // AULA JAVA - Estruturas Condicionais
+        
+        String pincel;
+        
+           
+            
         
         
         
